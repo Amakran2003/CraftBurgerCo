@@ -290,7 +290,7 @@ export default function SpecialtiesSection() {
                         className="mt-3 sm:mt-4 inline-block text-xs sm:text-sm font-medium hover:underline transition-colors duration-200"
                         style={{ color: themeColors.heading }}
                       >
-                        Voir sur le menu
+                        Voir sur le menu 
                         <motion.span 
                           animate={{ x: [0, 5, 0] }}
                           transition={{ duration: 1, repeat: Infinity, repeatType: "reverse" }}
